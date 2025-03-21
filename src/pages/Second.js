@@ -4,7 +4,7 @@ import NavBar from "../pages/NavBar";
 const Second = () => {
     return (
         <div>
-            <img className="myBack" src="../images/HealthyCards.svg" />
+            <img className="myBack" src="../images/HealthyCards.svg" alt=""/>
             <NavBar />
         </div>
     )

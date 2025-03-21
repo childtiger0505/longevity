@@ -5,14 +5,15 @@ const Navbar = () => {
         <>
             <div className="navBar">
                 <Link to="/second" >
-                    <img src="../images/listing.svg" />
+                    <img src="../images/listing.svg" alt=""/>
                 </Link>
-                <img src="../images/like minded.svg" />
-                <Link to = "/home" >
-                    <img src="../images/Frame2753.svg" />
+                <img src="../images/like minded.svg" alt=""/>
+
+                 <Link to = "/" >
+                    <img src="../images/Frame2753.svg" alt=""/>
                 </Link>
-                <img src="../images/task.svg" />
-                <img src="../images/Airdrop.svg" />
+                <img src="../images/task.svg" alt=""/>
+                <img src="../images/Airdrop.svg" alt=""/>
             </div>
             
         </>
